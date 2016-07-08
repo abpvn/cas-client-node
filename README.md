@@ -1,13 +1,13 @@
-#CAS client
+#CAS client node
 ##A cas client for nodejs
 
 ###Installation
-```npm i cas-client --save```
+```npm i cas-client-node --save```
 
 ###Example
 ```
-import express from express;
-import CAS from 'cas-client';
+import express from 'express';
+import CAS from 'cas-client-node';
 import session from 'express-session';
 const port=80;
 server=express();
