@@ -1,5 +1,5 @@
 #CAS client node
-##A cas client for nodejs
+```A cas client for nodejs```
 
 ###Installation
 ```npm i cas-client-node --save```
