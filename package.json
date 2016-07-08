@@ -1,6 +1,6 @@
 {
   "name": "cas-client-node",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "./index.js",
   "desciprtion": "A cas client for nodejs",
   "dependencies": {
@@ -13,6 +13,6 @@
     "url": "https://github.com/hoangdreamer/cas-client-node.git"
   },
   "bugs": {
-    "url": "https://github.com/ashleygwilliams/cas-client-node/issues"
+    "url": "https://github.com/hoangdreamer/cas-client-node/issues"
   }
 }
