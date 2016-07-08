@@ -1,8 +1,8 @@
 {
   "name": "cas-client-node",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "build/index.js",
-  "desciprtion": "A cas client for nodejs",
+  "description": "A cas client for nodejs",
   "dependencies": {
     "node-fetch": "~1.5.3"
   },

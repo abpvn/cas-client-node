@@ -4,12 +4,12 @@
 import fetch from 'node-fetch';
 let cas_host;
 let service;
-const CAS = (options)=> {
+let CAS = (options) => {
     cas_host = options.cas_host.replace('/login', '');
     service = options.service;
     return CAS;
 };
-CAS.auth = async(req, res, next)=> {
+CAS.auth = async(req, res, next) => {
     if (req.user) {
         next();
     }
