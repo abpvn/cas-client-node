@@ -1,6 +1,6 @@
 {
   "name": "cas-client-node",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "build/index.js",
   "description": "A cas client for nodejs",
   "dependencies": {
@@ -15,10 +15,10 @@
   "author": "hoangrio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hoangdreamer/cas-client-node.git"
+    "url": "https://github.com/abpvn/cas-client-node.git"
   },
   "bugs": {
-    "url": "https://github.com/hoangdreamer/cas-client-node/issues"
+    "url": "https://github.com/abpvn/cas-client-node/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
