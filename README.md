@@ -3,7 +3,8 @@
 
 ### Installation
 ```npm i cas-client-node --save```
-
+### Build
+```npm run build```
 ### Example
 ```
 import express from 'express';

@@ -1,6 +1,6 @@
 {
   "name": "cas-client-node",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "main": "build/index.js",
   "description": "A cas client for nodejs",
   "dependencies": {
