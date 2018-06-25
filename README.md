@@ -6,11 +6,11 @@
 ### Build
 ```npm run build```
 ### Example
-```
+```javascript
 import express from 'express';
 import CAS from 'cas-client-node';
 import session from 'express-session';
-const port=80;
+const port = 80;
 server=express();
 const cas = CAS({
     cas_host: 'https://cas-server.com/cas',
