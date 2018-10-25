@@ -11,7 +11,7 @@ import express from 'express';
 import CAS from 'cas-client-node';
 import session from 'express-session';
 const port = 80;
-server=express();
+const server = express();
 const cas = CAS({
     cas_host: 'https://cas-server.com/cas',
     service: 'http://localhost/sso'
