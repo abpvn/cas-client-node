@@ -4,7 +4,7 @@
   "main": "build/index.js",
   "description": "A cas client for nodejs",
   "dependencies": {
-    "node-fetch": "~1.5.3"
+    "node-fetch": "~2.6.1"
   },
   "keywords": [
     "cas",
